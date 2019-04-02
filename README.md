@@ -1,1 +1,1 @@
-# BGSE_MLearning
+# BGSE Machine Learning Exercises
