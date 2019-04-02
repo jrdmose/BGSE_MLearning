@@ -1,0 +1,17 @@
+# Ignore everything
+HW1/*
+HW2/*
+HW3/*
+HW4/*
+
+
+# But not these files...
+
+!HW1/ML-Homework1.ipynb
+!HW1/Set1_Jordi_Morera
+!HW2/HW2.ipynb
+!HW2/HW2_Jordi_Morera
+!HW3/HW3.ipynb
+!HW3/HW3_Jordi_Morera
+!HW4/HW4.ipynb
+!HW4/HW4_Morera_Jordi
